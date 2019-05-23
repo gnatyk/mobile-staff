@@ -1,27 +1,50 @@
 import React from 'react';
-import { StyleSheet, View, Text, TextInput, TouchableOpacity, KeyboardAvoidingView } from 'react-native';
+import { StyleSheet, View, Text, TextInput, TouchableOpacity, StatusBar } from 'react-native';
 
 export default class LoginForm extends React.Component {
+
+constructor(props) {
+  super(props);
+  this.state = {
+    user: '',
+    pass: '',
+  }
+}
+
+
   render() {
+    const { onLogin } = this.props;
     return (
-      <KeyboardAvoidingView behavior="padding" style={styles.container}>
       <View style={styles.container}>
+      <StatusBar barStyle="light-content" />
         <TextInput
           placeholder="email"
+          onChangeText={(user) => this.setState({user})}
+          value={this.state.user}
           placeholderTextColor="rgba(255,255,255,0.2)"
           style={styles.input}
+          onSubmitEditing={() => this.passwordInput.focus()}
+          autoCapitalize="none"
+          autoCorrect={false}
+          keyboardType="email-address"
+          returnKeyType="next"
         />
         <TextInput
           placeholder="password"
+          onChangeText={(pass) => this.setState({pass})}
+          value={this.state.pass}
           secureTextEntry
           placeholderTextColor="rgba(255,255,255,0.2)"
           style={styles.input}
+          secureTextEntry
+          returnKeyType="go"
+          ref={(input) => this.passwordInput = input}
+          
         />
-        <TouchableOpacity style={styles.buttonContainer}>
+        <TouchableOpacity onPress={() => onLogin({user: this.state.user, pass: this.state.pass})} style={styles.buttonContainer} >
           <Text style={styles.buttonText}>LOGIN</Text>
         </TouchableOpacity>
       </View>
-      </KeyboardAvoidingView>
     )
   }
 }

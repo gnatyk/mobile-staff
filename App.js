@@ -1,8 +1,13 @@
 import React from 'react';
+import { Provider } from 'react-redux';
+import { ActivityIndicator } from 'react-native';
 import { Platform, StatusBar, StyleSheet, View } from 'react-native';
+import { PersistGate } from 'redux-persist/es/integration/react';
 import { AppLoading, Asset, Font, Icon } from 'expo';
 import AppNavigator from './navigation/AppNavigator';
 import Login from './components/Login/Login';
+import configureStore from './store/configureStore';
+const { persistor, store } = configureStore();
 export default class App extends React.Component {
   state = {
     isLoadingComplete: false,
@@ -19,10 +24,17 @@ export default class App extends React.Component {
       );
     } else {
       return (
-        <View style={styles.container}>
-          {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
-          <Login />
-        </View>
+        <Provider store={store}>
+          <PersistGate
+            loading={<ActivityIndicator />}
+            persistor={persistor}
+          >
+          <View style={styles.container}>
+            {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
+            <Login />
+          </View>
+          </PersistGate>
+        </Provider>
       );
     }
   }

@@ -1,11 +1,14 @@
 import React from 'react';
-import { StyleSheet, View, Image, Text } from 'react-native';
+import { StyleSheet, View, Image, Text, KeyboardAvoidingView } from 'react-native';
 import LoginForm from './LoginForm';
+import { connect } from 'react-redux';
+import { requestLogin } from './actions';
 
-export default class  extends React.Component {
+class Login extends React.Component {
   render() {
+    const { onLogin } = this.props;
     return (
-      <View style={styles.container}>
+      <KeyboardAvoidingView enabled behavior="padding" style={styles.container}>
         <View style={styles.logoContainer}>
           <Image 
             style={styles.logo}
@@ -14,12 +17,13 @@ export default class  extends React.Component {
           <Text style={styles.title} >Nastia the best of girl on the world. Remember this.</Text>
         </View>
         <View style={styles.formContainer}>
-          <LoginForm />
+          <LoginForm onLogin={onLogin}/>
         </View>
-      </View>
+      </KeyboardAvoidingView>
     )
   }
 }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -41,4 +45,17 @@ const styles = StyleSheet.create({
     width: 100,
     height: 100,
   }
-})
+});
+
+function mapStateToProps() {
+  return {};
+}
+function mapDispatchToProps(dispatch) {
+  return {
+    onLogin: (data) => dispatch(requestLogin(data))
+  };
+}
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Login);
