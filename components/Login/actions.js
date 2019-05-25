@@ -14,8 +14,9 @@ export function requestLoginSuccess(response) {
   };
 }
 
-export function requestLoginFailed() {
+export function requestLoginFailed(error) {
   return {
       type: LOGIN_FAILED,
+      payload: error,
   };
 }

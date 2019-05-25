@@ -6,7 +6,8 @@ import { requestLogin } from './actions';
 
 class Login extends React.Component {
   render() {
-    const { onLogin } = this.props;
+    const { onLogin, error } = this.props;
+    console.log(error, 'error')
     return (
       <KeyboardAvoidingView enabled behavior="padding" style={styles.container}>
         <View style={styles.logoContainer}>
@@ -47,8 +48,10 @@ const styles = StyleSheet.create({
   }
 });
 
-function mapStateToProps() {
-  return {};
+function mapStateToProps(state) {
+  return {
+    error: state.loginReducer.error,
+  };
 }
 function mapDispatchToProps(dispatch) {
   return {

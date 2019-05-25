@@ -9,11 +9,11 @@ const initialState = {
   isLoggedIn: false,
   token: null,
   loading: false,
+  error: null,
 };
 
 export const loginReducer = createReducer(initialState, {
   [LOGIN_REQUEST](state) {
-    console.log('LOGIN_REQUEST');
       return {
           ...state,
           loading: true,
@@ -26,10 +26,11 @@ export const loginReducer = createReducer(initialState, {
           loading: false
       };
   },
-  [LOGIN_FAILED](state) {
+  [LOGIN_FAILED](state, action) {
       return {
           ...state,
-          loading: false
+          loading: false,
+          error: action.payload
       };
   }
 });
