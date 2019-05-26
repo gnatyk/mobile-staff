@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Text, TextInput, TouchableOpacity, StatusBar } from 'react-native';
 
+
 export default class LoginForm extends React.Component {
 
 constructor(props) {
@@ -11,9 +12,8 @@ constructor(props) {
   }
 }
 
-
   render() {
-    const { onLogin } = this.props;
+    const { onLogin, error, navigation } = this.props;
     return (
       <View style={styles.container}>
       <StatusBar barStyle="light-content" />
@@ -38,10 +38,10 @@ constructor(props) {
           style={styles.input}
           secureTextEntry
           returnKeyType="go"
-          ref={(input) => this.passwordInput = input}
-          
+          ref={(input) => this.passwordInput = input}          
         />
-        <TouchableOpacity onPress={() => onLogin({user: this.state.user, pass: this.state.pass})} style={styles.buttonContainer} >
+        {error && <Text style={styles.errorPlace}>{error}</Text>}
+        <TouchableOpacity onPress={() => onLogin({user: this.state.user, pass: this.state.pass, navigation})} style={styles.buttonContainer} >
           <Text style={styles.buttonText}>LOGIN</Text>
         </TouchableOpacity>
       </View>
@@ -67,5 +67,9 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#FFFFFF',
     fontWeight: '700',
+  },
+  errorPlace: {
+    color: '#9a050f',
+    marginBottom: 10,
   }
 })

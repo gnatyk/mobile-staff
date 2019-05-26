@@ -6,8 +6,7 @@ import { requestLogin } from './actions';
 
 class Login extends React.Component {
   render() {
-    const { onLogin, error } = this.props;
-    console.log(error, 'error')
+    const { onLogin, error, navigation } = this.props;
     return (
       <KeyboardAvoidingView enabled behavior="padding" style={styles.container}>
         <View style={styles.logoContainer}>
@@ -18,7 +17,7 @@ class Login extends React.Component {
           <Text style={styles.title} >Nastia the best of girl on the world. Remember this.</Text>
         </View>
         <View style={styles.formContainer}>
-          <LoginForm onLogin={onLogin}/>
+          <LoginForm onLogin={onLogin} error={error} navigation={navigation} />
         </View>
       </KeyboardAvoidingView>
     )

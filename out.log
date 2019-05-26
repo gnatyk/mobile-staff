@@ -1,0 +1,1979 @@
+Starting project at /home/codex/Projects/AwesomeProject
+Expo DevTools is running at http://localhost:19002
+Opening DevTools in the browser... (press shift-d to disable)
+Starting Metro Bundler on port 19001.
+Your JavaScript transform cache is empty, rebuilding (this may take a minute).
+Tunnel ready.
+
+  exp://172.21.0.1:19000
+
+  [47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[47m  [0m[40m  [0m[40m  [0m[40m  [0m[47m  [0m[47m  [0m[47m  [0m[40m  [0m[47m  [0m
+  [47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m[47m  [0m
+
+  To run the app with live reloading, choose one of:
+  • Sign in as @gnatyk in Expo Client on Android or iOS. Your projects will
+    automatically appear in the "Projects" tab.
+  • Scan the QR code above with the Expo app (Android) or the Camera app (iOS).
+  • Press a for Android emulator.
+  • Press e to send a link to your phone with email.
+
+Press ? to show a list of all available commands.
+Logs for your project will appear below. Press Ctrl+C to exit.
+null error LoginForm
+null error LoginForm
+null error LoginForm
+null error LoginForm
+%c action %cLOGIN_REQUEST %c@ 14:01:06.409 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "pass": "gg",
+    "user": "gg",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+Object {
+  "msg": "Wrong email or password",
+} sdsdsdd
+Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+} action
+Wrong email or password error LoginForm
+%c action %cLOGIN_FAILED %c@ 14:01:07.183 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+Finished building JavaScript bundle in 71150ms.
+%c action %cpersist/PERSIST %c@ 14:04:41.911 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:04:42.283 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": "Wrong email or password",
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+Wrong email or password error LoginForm
+%c action %cLOGIN_REQUEST %c@ 14:06:13.659 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "pass": "codex123",
+    "user": "gnatyk.anastasia@gmail.com",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+null error LoginForm
+%c action %cLOGIN_SUCCESS %c@ 14:06:17.633 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc3NjMyLCJqdGkiOiI4NTdiMzE2NjY1ZGI0MzhhYmYzZTFhYWVlZTg3YWQzZCIsInVzZXJfaWQiOjN9.Bl52knp1cXhnY5378fG9RPkRBUFnZNLGEvtgkL7fMFU",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  "type": "LOGIN_SUCCESS",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+} action
+undefined error LoginForm
+%c action %cLOGIN_FAILED %c@ 14:06:17.789 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+Finished building JavaScript bundle in 972ms.
+%c action %cpersist/PERSIST %c@ 14:09:47.786 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:09:48.157 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+%c action %cLOGIN_REQUEST %c@ 14:10:03.401 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": undefined,
+    "pass": "cdrv",
+    "user": "frtc",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+} action
+%c action %cLOGIN_FAILED %c@ 14:10:04.507 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action %cLOGIN_REQUEST %c@ 14:10:32.395 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": undefined,
+    "pass": "codex123",
+    "user": "gnatyk.anastasia@gmail.com",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action %cLOGIN_SUCCESS %c@ 14:10:33.303 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4Mzc3LCJqdGkiOiI2NmEzZDE1MzU2ZDE0MmJhOTczMzYyMzMyYTMwNDE2ZSIsInVzZXJfaWQiOjN9.2RYosP5mni305fQwfHWIxSXAQ-NYipYi784aP2xtU8k",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  "type": "LOGIN_SUCCESS",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+} action
+%c action %cLOGIN_FAILED %c@ 14:10:33.433 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+%c action %cLOGIN_REQUEST %c@ 14:10:49.799 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": undefined,
+    "pass": "codex123",
+    "user": "gnatyk.anastasia@gmail.com",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+%c action %cLOGIN_SUCCESS %c@ 14:10:50.656 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjMzLCJqdGkiOiI2M2NmM2M1NmExYTE0MDkxODA5MTFkZTBjZjhhNjEzYSIsInVzZXJfaWQiOjN9.8tLl-mATiTHIOq8EJI-PWsdRQRIgQMZkKYOaPCTP36w",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  "type": "LOGIN_SUCCESS",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+} action
+%c action %cLOGIN_FAILED %c@ 14:10:50.787 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Finished building JavaScript bundle in 267ms.
+%c action %cpersist/PERSIST %c@ 14:12:24.279 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:12:24.655 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+%c action %cLOGIN_REQUEST %c@ 14:12:38.278 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": undefined,
+    "pass": "cds",
+    "user": "tfd",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+undefined navigation
+Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+} action
+%c action %cLOGIN_FAILED %c@ 14:12:39.396 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "Wrong email or password",
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Finished building JavaScript bundle in 254ms.
+%c action %cpersist/PERSIST %c@ 14:14:00.258 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:14:04.469 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": "Wrong email or password",
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+Finished building JavaScript bundle in 283ms.
+%c action %cpersist/PERSIST %c@ 14:14:33.527 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:14:33.900 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": "Wrong email or password",
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+%c action %cLOGIN_REQUEST %c@ 14:14:51.062 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": undefined,
+    "pass": "codex123",
+    "user": "gnatyk.anastasia@gmail.com",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+undefined navigation
+%c action %cLOGIN_SUCCESS %c@ 14:14:52.101 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": "Wrong email or password",
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4NjUwLCJqdGkiOiJhYWEwY2JmNDY4NTE0Yjg0OGNhZmQ4M2VhMGI3NGJhMiIsInVzZXJfaWQiOjN9.F3WPS5gzyYhzBcoa4Wv2M1wFdC9nh1Ig6QLUcEOTxgM",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  "type": "LOGIN_SUCCESS",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+} action
+%c action %cLOGIN_FAILED %c@ 14:14:52.232 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Finished building JavaScript bundle in 297ms.
+%c action %cpersist/PERSIST %c@ 14:16:44.299 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:16:44.669 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+undefined navigation LoginForm
+Finished building JavaScript bundle in 301ms.
+%c action %cpersist/PERSIST %c@ 14:17:17.491 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:17:17.861 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": null,
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+Object {
+  "error": null,
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Finished building JavaScript bundle in 626ms.
+%c action %cpersist/PERSIST %c@ 14:17:50.991 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:17:51.367 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": null,
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+  "screenProps": undefined,
+} navigation Login
+Object {
+  "error": null,
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Finished building JavaScript bundle in 259ms.
+%c action %cpersist/PERSIST %c@ 14:18:33.922 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:18:34.291 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "error": null,
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+  "screenProps": undefined,
+} navigation Login
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+Object {
+  "error": null,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+%c action %cLOGIN_REQUEST %c@ 14:18:58.402 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": Object {
+    "navigation": Object {
+      "actions": Object {
+        "goBack": [Function goBack],
+        "navigate": [Function navigate],
+        "setParams": [Function setParams],
+      },
+      "addListener": [Function addListener],
+      "dangerouslyGetParent": [Function anonymous],
+      "dispatch": [Function anonymous],
+      "emit": [Function emit],
+      "getChildNavigation": [Function getChildNavigation],
+      "getParam": [Function anonymous],
+      "getScreenProps": [Function anonymous],
+      "goBack": [Function anonymous],
+      "isFocused": [Function isFocused],
+      "navigate": [Function anonymous],
+      "router": undefined,
+      "setParams": [Function anonymous],
+      "state": Object {
+        "key": "Auth",
+        "params": undefined,
+        "routeName": "Auth",
+      },
+    },
+    "pass": "codex123",
+    "user": "gnatyk.anastasia@gmail.com",
+  },
+  "type": "LOGIN_REQUEST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+Object {
+  "actions": Object {
+    "goBack": [Function goBack],
+    "navigate": [Function navigate],
+    "setParams": [Function setParams],
+  },
+  "addListener": [Function addListener],
+  "dangerouslyGetParent": [Function anonymous],
+  "dispatch": [Function anonymous],
+  "emit": [Function emit],
+  "getChildNavigation": [Function getChildNavigation],
+  "getParam": [Function anonymous],
+  "getScreenProps": [Function anonymous],
+  "goBack": [Function anonymous],
+  "isFocused": [Function isFocused],
+  "navigate": [Function anonymous],
+  "router": undefined,
+  "setParams": [Function anonymous],
+  "state": Object {
+    "key": "Auth",
+    "params": undefined,
+    "routeName": "Auth",
+  },
+} navigation
+%c action %cLOGIN_SUCCESS %c@ 14:18:59.899 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc4ODkxLCJqdGkiOiJlOGExMTVlNGY2ZTM0OTVjOWY2OWJjNjMzZTliMzlkMiIsInVzZXJfaWQiOjN9.y-2-ii5AHbGb7_ysAPWyJMRxLpsSJ88c37MqphjDZRs",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+  "type": "LOGIN_SUCCESS",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+  },
+}
+Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+} action
+Object {
+  "error": undefined,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+  "screenProps": undefined,
+} navigation Login
+Object {
+  "error": undefined,
+  "navigation": Object {
+    "actions": Object {
+      "goBack": [Function goBack],
+      "navigate": [Function navigate],
+      "setParams": [Function setParams],
+    },
+    "addListener": [Function addListener],
+    "dangerouslyGetParent": [Function anonymous],
+    "dispatch": [Function anonymous],
+    "emit": [Function emit],
+    "getChildNavigation": [Function getChildNavigation],
+    "getParam": [Function anonymous],
+    "getScreenProps": [Function anonymous],
+    "goBack": [Function anonymous],
+    "isFocused": [Function isFocused],
+    "navigate": [Function anonymous],
+    "router": undefined,
+    "setParams": [Function anonymous],
+    "state": Object {
+      "key": "Auth",
+      "params": undefined,
+      "routeName": "Auth",
+    },
+  },
+  "onLogin": [Function onLogin],
+} navigation LoginForm
+%c action %cLOGIN_FAILED %c@ 14:19:00.018 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "payload": undefined,
+  "type": "LOGIN_FAILED",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": undefined,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+  },
+}
+Finished building JavaScript bundle in 602ms.
+%c action %cpersist/PERSIST %c@ 14:20:44.041 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "register": [Function register],
+  "rehydrate": [Function rehydrate],
+  "type": "persist/PERSIST",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+redux-persist/stateReconciler: rehydrated keys 'loginReducer, _persist'
+%c action %cpersist/REHYDRATE %c@ 14:20:44.410 color: gray; font-weight: lighter; color: inherit; color: gray; font-weight: lighter;
+%c prev state color: #9E9E9E; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": false,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": null,
+  },
+}
+%c action     color: #03A9F4; font-weight: bold Object {
+  "err": undefined,
+  "key": "root",
+  "payload": Object {
+    "_persist": Object {
+      "rehydrated": true,
+      "version": -1,
+    },
+    "loginReducer": Object {
+      "isLoggedIn": false,
+      "loading": false,
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+    },
+  },
+  "type": "persist/REHYDRATE",
+}
+%c next state color: #4CAF50; font-weight: bold Object {
+  "_persist": Object {
+    "rehydrated": true,
+    "version": -1,
+  },
+  "loginReducer": Object {
+    "error": null,
+    "isLoggedIn": false,
+    "loading": false,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTYwMDc5MTM5LCJqdGkiOiI3M2QyNTdjYmM1OGM0MTA2OTQ3ZDczZTU4ZmUyN2I1OCIsInVzZXJfaWQiOjN9.1VUGGoBkCYfgMlLawnv63rXy6psY-28ao6oSZ6R47Es",
+  },
+}
+Running application on iPhone (Anastasia).
+_bootstrap
+null userToken
+
+Stopping packager...
+Packager stopped.

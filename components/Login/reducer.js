@@ -14,23 +14,24 @@ const initialState = {
 
 export const loginReducer = createReducer(initialState, {
   [LOGIN_REQUEST](state) {
-      return {
-          ...state,
-          loading: true,
-      };
+    return {
+      ...state,
+      loading: true,
+    };
   },
   [LOGIN_SUCCESS](state, action) {
-      return {
-          ...state,
-          token: action.payload,
-          loading: false
-      };
+    return {
+      ...state,
+      token: action.payload,
+      loading: false,
+      error: null,
+    };
   },
   [LOGIN_FAILED](state, action) {
-      return {
-          ...state,
-          loading: false,
-          error: action.payload
-      };
+    return {
+      ...state,
+      loading: false,
+      error: action.payload
+    };
   }
 });
