@@ -1,12 +1,5 @@
-/* Redux saga class
- * logins the user into the app
- * requires username and password.
- * un - username
- * pwd - password
- */
 
-// import loginUser from 'app/api/methods/loginUser';
-import { takeEvery, all, call, put } from 'redux-saga/effects';
+import { takeEvery, call, put } from 'redux-saga/effects';
 import request from '../../utils/request';
 import { LOGIN_REQUEST } from './types';
 import { requestLoginSuccess, requestLoginFailed } from './actions';
@@ -25,7 +18,11 @@ function* loginSaga(...args) {
       method: 'POST',
       body: JSON.stringify({ email, password }),
     });
-    yield put(requestLoginSuccess(response.token));
+    const base64Url = response.token.split('.')[1];
+    const base64 = base64Url.replace('-', '+').replace('_', '/');
+    const objectToken = JSON.parse(window.atob(base64));
+    const id = objectToken.user_id;
+    yield put(requestLoginSuccess({ token: response.token, userId: id }));
     yield call([AsyncStorage, 'setItem'], '@USER_TOKEN', response.token)
     navigation.navigate('AuthLoading');
 
@@ -35,6 +32,4 @@ function* loginSaga(...args) {
 }
 
 
-export default function* watch() {
-  yield all([takeEvery(LOGIN_REQUEST, loginSaga)]);
-}
+export default [takeEvery(LOGIN_REQUEST, loginSaga)]

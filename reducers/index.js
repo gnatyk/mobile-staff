@@ -1,2 +1,3 @@
 import * as loginReducer from '../components/Login/reducer';
-export default Object.assign(loginReducer);
+import * as absencesReducer from '../components/ListOfAbsences/reducer';
+export default Object.assign(loginReducer, absencesReducer);

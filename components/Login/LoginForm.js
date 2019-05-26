@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text, TextInput, TouchableOpacity, StatusBar } from 'react-native';
 
-
 export default class LoginForm extends React.Component {
 
 constructor(props) {

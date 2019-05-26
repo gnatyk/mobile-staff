@@ -3,8 +3,6 @@ import {AsyncStorage} from 'react-native';
 
 import { API_URL } from '../config.js';
 
-
-
 const checkStatus = async (response) => {
   if (response.status >= 400 ) {
     throw await response.json();
@@ -31,7 +29,7 @@ export default request = async (url, options = {}) => {
     ...options,
     headers: {
       'Content-Type': 'application/json',
-      'Authorization':  'JWT' + ' ' + await AsyncStorage.getItem('USER_TOKEN'),
+      'Authorization':  'JWT' + ' ' + await AsyncStorage.getItem('@USER_TOKEN'),
       Accept: '*/*',
       ...(options.headers || {}),
     },

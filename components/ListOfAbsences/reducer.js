@@ -3,33 +3,31 @@
  * handles login states in the app
  */
 import createReducer from '../../lib/createReducer';
-import { LOGIN_REQUEST, LOGIN_SUCCESS, LOGIN_FAILED} from './types';
+import { GET_ALL_ABSENCES_REQUEST, GET_ALL_ABSENCES_REQUEST_SUCCESS, GET_ALL_ABSENCES_REQUEST_FAILED } from './types';
+
 
 const initialState = {
-  isLoggedIn: false,
-  token: null,
+  allAbsences: [],
   loading: false,
   error: null,
-  userId: null,
 };
 
-export const loginReducer = createReducer(initialState, {
-  [LOGIN_REQUEST](state) {
+export const absencesReducer = createReducer(initialState, {
+  [GET_ALL_ABSENCES_REQUEST](state) {
     return {
       ...state,
       loading: true,
     };
   },
-  [LOGIN_SUCCESS](state, action) {
+  [GET_ALL_ABSENCES_REQUEST_SUCCESS](state, action) {
     return {
       ...state,
-      token: action.payload.token,
-      userId: action.payload.id,
+      allAbsences: action.payload,
       loading: false,
       error: null,
     };
   },
-  [LOGIN_FAILED](state, action) {
+  [GET_ALL_ABSENCES_REQUEST_FAILED](state, action) {
     return {
       ...state,
       loading: false,
