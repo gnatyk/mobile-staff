@@ -5,7 +5,7 @@ import { requestGetAllAbsences } from './actions';
 import { connect } from 'react-redux';
 
 
-const extractKey = ({id}) => id
+const extractKey = ({id}) => id.toString()
 
 class ListOfAbsences extends Component {
   componentDidMount() {
@@ -39,16 +39,17 @@ class ListOfAbsences extends Component {
   } 
 
   render() {
-    const { allAbsences } = this.props;
+    const { allAbsences, onGetAllAbsences } = this.props;
     return (
-      <View containerStyle={{ borderTopWidth: 0, borderBottomWidth: 0 }}>
         <FlatList
           style={styles.container}
           data={allAbsences}
           renderItem={this.renderItem}
           keyExtractor={extractKey}
+          onEndReached={onGetAllAbsences}
+          onEndReachedThreshold={0.5}
+          initialNumToRender={10}
         />
-      </View>
     );
   }
 }
