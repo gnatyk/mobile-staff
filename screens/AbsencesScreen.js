@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, StyleSheet } from 'react-native';
+import {StyleSheet} from 'react-native';
 import ListOfAbsences from '../components/ListOfAbsences/ListOfAbsences';
 
 export default class AbsencesScreen extends React.Component {
@@ -10,9 +10,7 @@ export default class AbsencesScreen extends React.Component {
 
   render () {
     return (
-      <ScrollView style={styles.container}>
-        <ListOfAbsences navigation={this.props.navigation}/>
-      </ScrollView>
+      <ListOfAbsences navigation={this.props.navigation} />
     )
   }
 
