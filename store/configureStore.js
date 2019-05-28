@@ -11,7 +11,7 @@ import sagas from '../sagas';
 const config = {
     key: 'root',
     storage,
-    blacklist: ['nav', 'loadingReducer'],
+    blacklist: ['nav', 'loadingReducer','absencesReducer'],
     debug: true //to get useful logging
 };
 
@@ -33,7 +33,7 @@ const persistor = persistStore(store, persistConfig, () => {
     //   console.log('Test', store.getState());
 });
 const configureStore = () => {
-    return { persistor, store };
+    return {persistor, store };
 };
 
 sagaMiddleware.run(sagas);
