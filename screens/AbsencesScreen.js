@@ -9,10 +9,9 @@ export default class AbsencesScreen extends React.Component {
   };
 
   render () {
-    const state = this.state;
     return (
       <ScrollView style={styles.container}>
-        <ListOfAbsences />
+        <ListOfAbsences navigation={this.props.navigation}/>
       </ScrollView>
     )
   }

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { View, Text, FlatList, StyleSheet } from "react-native";
+import { View, Text, FlatList, StyleSheet, TouchableOpacity } from "react-native";
 import { Icon } from 'react-native-elements';
 import { requestGetAllAbsences } from './actions';
 import { connect } from 'react-redux';
@@ -8,13 +8,18 @@ import { connect } from 'react-redux';
 const extractKey = ({id}) => id
 
 class ListOfAbsences extends Component {
+constructor(props) {
+  super(props);
+  this.renderItem = this.renderItem.bind(this);
+}
+
   componentDidMount() {
     this.props.onGetAllAbsences();
   }
 
   renderItem = ({item}) => {
     return (
-      <View style={styles.row}>
+      <View style={styles.row} >
         <View style={styles.status}>
           <Icon
             reverse
@@ -27,13 +32,18 @@ class ListOfAbsences extends Component {
           <Text style={styles.type}>{item.reason}</Text>
           <Text style={styles.data}>{item.start_date}/{item.end_date}</Text>
         </View>
-        <View style={styles.continue}>
+        <TouchableOpacity 
+        style={styles.continue} 
+        onPress={() => { console.log(this.props, 'onpress'); this.props.navigation.navigate('Absence', { absenceId: item.id })}}
+        >
+        <View >
           <Icon
             name='right'
             type='antdesign'
             color='#f1f3f4'
           />
-        </View>        
+        </View>
+        </TouchableOpacity>    
       </View>
     )
   } 
